@@ -5,10 +5,10 @@
 
 ##### Quantitative
 
-**Recommendations as a Result of Research and Data Analysis**
-
 **Analysis of Data using Tools and Techniques**
 
+
 **Recommendations as a Result of Research and Data Analysis** 
+
 
 **Reflection on the Value of Undertaking the Research** 
