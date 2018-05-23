@@ -1,14 +1,14 @@
 # Research Project
 
-### Qualitative and quantitative research methods
-#### Qualitative
+#### Qualitative and quantitative research methods
+##### Qualitative
 
-#### Quantitative
+##### Quantitative
 
-### Communicate Appropriate Recommendations as a Result of Research and Data Analysis to Draw Valid and Meaningful Conclusions
+**Recommendations as a Result of Research and Data Analysis**
 
-### Analysis of Data using Tools and Techniques
+**Analysis of Data using Tools and Techniques**
 
-### Recommendations as a Result of Research and Data Analysis 
+**Recommendations as a Result of Research and Data Analysis** 
 
-### Reflection on the value of undertaking the research 
+**Reflection on the Value of Undertaking the Research** 
