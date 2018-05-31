@@ -70,8 +70,12 @@ Below are various quantifications of the results of my questionaire:
 #### Bar Chart
 
 
-Have you been asked to divulge personal information before?
 ![](https://i.imgur.com/BiEcTNL.png)
 
+
+
+
+## Conclusion
+My research i came to an expected conclusion, that people who practise good security, personally, have a much greater understanding of software vulnerabilities.
 
 
