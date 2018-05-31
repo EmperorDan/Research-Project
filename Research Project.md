@@ -43,7 +43,7 @@ Below are various quantifications of the results of my questionaire:
 
 
 
-#### Pie Chart
+### Pie Chart
 
 
 ![](https://i.imgur.com/YSGaM7x.png)
@@ -51,7 +51,7 @@ Below are various quantifications of the results of my questionaire:
 
 
 
-#### Bar Chart
+### Bar Chart
 
 
 ![](https://i.imgur.com/LfdkOJ8.png)
@@ -59,7 +59,7 @@ Below are various quantifications of the results of my questionaire:
 
 
 
-#### Pie Chart
+### Pie Chart
 
 
 ![](https://i.imgur.com/GWhJWsd.png)
@@ -67,7 +67,7 @@ Below are various quantifications of the results of my questionaire:
 
 
 
-#### Bar Chart
+### Bar Chart
 
 
 ![](https://i.imgur.com/BiEcTNL.png)
