@@ -36,7 +36,12 @@ A way of combating this kind of activity would be to employ 'User Action Monitor
 
 
 **Table of Results**
+
+
+
+
 ![](https://i.imgur.com/3DPW3D7.png)
+
 
 ## Data Analysis
 Below are various quantifications of the results of my questionaire:
