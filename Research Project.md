@@ -22,7 +22,7 @@ Edward Snowden previously worked for the NSA. Based in Hawaii, Snowden worked as
 A way of combating this kind of activity would be to employ 'User Action Monitoring' software. This software allows you to record peoples activity. This would include: URL's typed, windows opened, files copied, ect. This would act as a deterrent, and also potentially evidence.
 
 ## Primary Research
-**My end goal for this survey is to answer the follwing questions:**
+**My end goal for this survey is to answer the following questions:**
 
 
 
