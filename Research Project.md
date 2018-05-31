@@ -43,27 +43,33 @@ Below are various quantifications of the results of my questionaire:
 
 
 
-#### Pie Chart (**Are students aware of the subject of Software Vulnerabilities?**)
-Are you familiar with the subject of software vulnerabilities? 
+#### Pie Chart
+
+
 ![](https://i.imgur.com/YSGaM7x.png)
 
 
 
 
-#### Bar Chart (**Are students aware of the subject of Software Vulnerabilities?**)
-If so name some software vulnerabilities that you’re aware of:
+#### Bar Chart
+
+
 ![](https://i.imgur.com/LfdkOJ8.png)
 
 
 
 
-#### Pie Chart (**Does students knowledge of the subject effect their security?**)
+#### Pie Chart
+
+
 ![](https://i.imgur.com/GWhJWsd.png)
 
 
 
 
-#### Bar Chart (**Does students knowledge of the subject effect their security?**)
+#### Bar Chart
+
+
 Have you been asked to divulge personal information before?
 ![](https://i.imgur.com/BiEcTNL.png)
 
